@@ -8,4 +8,5 @@
 #trinodb/trino
 #prestodb/presto
 #apache/hadoop:3
-jupyter/pyspark-notebook
+#jupyter/pyspark-notebook
+serjs/go-socks5-proxy
