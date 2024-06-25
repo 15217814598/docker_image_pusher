@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #openjdk:8u342-jdk
 #trinodb/trino
-prestodb/presto
+#prestodb/presto
+apache/hadoop:3
