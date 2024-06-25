@@ -7,4 +7,5 @@
 #openjdk:8u342-jdk
 #trinodb/trino
 #prestodb/presto
-apache/hadoop:3
+#apache/hadoop:3
+jupyter/pyspark-notebook
