@@ -11,4 +11,5 @@
 #jupyter/pyspark-notebook
 #serjs/go-socks5-proxy
 #zookeeper
-postgres:15.6
+#postgres:15.6
+postgres:15.4
