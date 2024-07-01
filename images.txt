@@ -9,4 +9,5 @@
 #prestodb/presto
 #apache/hadoop:3
 #jupyter/pyspark-notebook
-serjs/go-socks5-proxy
+#serjs/go-socks5-proxy
+zookeeper
