@@ -10,4 +10,5 @@
 #apache/hadoop:3
 #jupyter/pyspark-notebook
 #serjs/go-socks5-proxy
-zookeeper
+#zookeeper
+postgres
