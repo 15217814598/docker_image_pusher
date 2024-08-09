@@ -14,4 +14,5 @@
 #postgres:15.6
 #postgres:15.4
 #anjone/kicbase
-yagagagaga/doris-standalone
+#yagagagaga/doris-standalone
+apache/doris
