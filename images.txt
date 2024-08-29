@@ -25,3 +25,4 @@
 #registry.k8s.io/etcd:3.5.15-0
 #mariadb:11.3.2-jammy
 #eipwork/kuboard:v4
+busybox:latest
