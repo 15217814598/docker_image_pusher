@@ -23,5 +23,5 @@
 #registry.k8s.io/coredns/coredns:v1.11.1
 #registry.k8s.io/pause:3.10
 #registry.k8s.io/etcd:3.5.15-0
-mariadb:11.3.2-jammy
-eipwork/kuboard:v4
+#mariadb:11.3.2-jammy
+#eipwork/kuboard:v4
