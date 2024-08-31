@@ -25,4 +25,6 @@
 #registry.k8s.io/etcd:3.5.15-0
 #mariadb:11.3.2-jammy
 #eipwork/kuboard:v4
-busybox:latest
+#busybox:latest
+docker.io/kubernetesui/metrics-scraper:v1.0.8
+docker.io/eipwork/metrics-server:v0.6.2
