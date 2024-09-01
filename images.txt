@@ -17,7 +17,7 @@
 #yagagagaga/doris-standalone
 #apache/doris
 #registry.k8s.io/kube-apiserver:v1.31.0
-#registry.k8s.io/kube-controller-manager:v1.31.0
+#registry.k8s.io/kube-controller-manager:v1.31.0docker.io/flannel/flannel:v0.25.6
 #registry.k8s.io/kube-scheduler:v1.31.0
 #registry.k8s.io/kube-proxy:v1.31.0
 #registry.k8s.io/coredns/coredns:v1.11.1
@@ -26,5 +26,6 @@
 #mariadb:11.3.2-jammy
 #eipwork/kuboard:v4
 #busybox:latest
-docker.io/kubernetesui/metrics-scraper:v1.0.8
-docker.io/eipwork/metrics-server:v0.6.2
+#docker.io/kubernetesui/metrics-scraper:v1.0.8
+#docker.io/eipwork/metrics-server:v0.6.2
+docker.io/flannel/flannel:v0.25.6
