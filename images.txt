@@ -30,4 +30,5 @@
 #docker.io/eipwork/metrics-server:v0.6.2
 #docker.io/flannel/flannel:v0.25.6
 #docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
-mysql
+#mysql
+budtmo/docker-android:emulator_11.0
