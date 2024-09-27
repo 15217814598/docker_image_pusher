@@ -32,4 +32,5 @@
 #docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
 #mysql
 #budtmo/docker-android:emulator_11.0
-webide/webide
+#webide/webide
+xhofe/alist:latest
