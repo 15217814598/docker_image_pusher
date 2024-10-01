@@ -33,4 +33,5 @@
 #mysql
 #budtmo/docker-android:emulator_11.0
 #webide/webide
-xhofe/alist:latest
+#xhofe/alist:latest
+minio/minio
