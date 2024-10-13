@@ -34,4 +34,5 @@
 #budtmo/docker-android:emulator_11.0
 #webide/webide
 #xhofe/alist:latest
-minio/minio
+#minio/minio
+linuxserver/nfs-kernel-server
