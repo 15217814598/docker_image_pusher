@@ -35,4 +35,5 @@
 #webide/webide
 #xhofe/alist:latest
 #minio/minio
-linuxserver/nfs-kernel-server
+#linuxserver/nfs-kernel-server
+itsthenetwork/nfs-server-alpine
