@@ -36,4 +36,6 @@
 #xhofe/alist:latest
 #minio/minio
 #linuxserver/nfs-kernel-server
-itsthenetwork/nfs-server-alpine
+#itsthenetwork/nfs-server-alpine
+neo4j
+
