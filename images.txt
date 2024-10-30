@@ -37,5 +37,5 @@
 #minio/minio
 #linuxserver/nfs-kernel-server
 #itsthenetwork/nfs-server-alpine
-neo4j
-
+#neo4j
+ollama/ollama
