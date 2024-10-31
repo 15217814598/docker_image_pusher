@@ -38,4 +38,5 @@
 #linuxserver/nfs-kernel-server
 #itsthenetwork/nfs-server-alpine
 #neo4j
-ollama/ollama
+#ollama/ollama
+open-webui
