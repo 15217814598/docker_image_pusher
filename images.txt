@@ -39,4 +39,4 @@
 #itsthenetwork/nfs-server-alpine
 #neo4j
 #ollama/ollama
-open-webui
+ghcr.io/open-webui/open-webui:main
