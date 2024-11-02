@@ -63,4 +63,5 @@
 #docker.elastic.co/kibana/kibana:8.15.1
 #mysql:8.0
 #postgres:15-alpine
-xprobe/xinference
+#xprobe/xinference
+farberg/apache-hadoop
