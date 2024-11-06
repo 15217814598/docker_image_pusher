@@ -64,4 +64,5 @@
 #mysql:8.0
 #postgres:15-alpine
 #xprobe/xinference
-farberg/apache-hadoop
+#farberg/apache-hadoop
+seaweedfs/seaweedfs
