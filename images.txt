@@ -65,4 +65,4 @@
 #postgres:15-alpine
 #xprobe/xinference
 #farberg/apache-hadoop
-seaweedfs/seaweedfs
+apacherocketmq/rocketmq-dashboard
