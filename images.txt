@@ -66,4 +66,4 @@
 #xprobe/xinference
 #farberg/apache-hadoop
 #apacherocketmq/rocketmq-dashboard
-registry.cn-hangzhou.aliyuncs.com/x_public/coredns:v1.11.3
+registry.k8s.io/coredns/coredns:v1.11.3
