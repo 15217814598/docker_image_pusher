@@ -65,4 +65,5 @@
 #postgres:15-alpine
 #xprobe/xinference
 #farberg/apache-hadoop
-apacherocketmq/rocketmq-dashboard
+#apacherocketmq/rocketmq-dashboard
+registry.cn-hangzhou.aliyuncs.com/x_public/coredns:v1.11.3
