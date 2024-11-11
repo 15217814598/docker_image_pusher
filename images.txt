@@ -71,4 +71,5 @@
 #apache/rocketmq
 #apache/rocketmq:5.3.0
 #apacherocketmq/rocketmq-dashboard:1.0.0
-farberg/apache-hadoop:3.3.2
+#farberg/apache-hadoop:3.3.2
+docker.io/bitnami/spark:3.5.3-debian-12-r1
