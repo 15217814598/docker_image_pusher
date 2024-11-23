@@ -82,4 +82,10 @@
 #hiromuhota/webspoon
 #kindest/node:v1.27.3
 #apache/doris:build-env-ldb-toolchain-latest
-bitnami/kafka:3.8.1-debian-12-r0
+#bitnami/kafka:3.8.1-debian-12-r0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/csi-provisioner:v2.1.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/csi-resizer:v1.1.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/csi-snapshotter:v3.0.3
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/csi-attacher:v3.1.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/cephcsi:v3.2.0
+swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/csi-node-driver-registrar:v2.1.0
