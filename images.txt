@@ -81,4 +81,5 @@
 #qingpan/rnacos:stable
 #hiromuhota/webspoon
 #kindest/node:v1.27.3
-apache/doris:build-env-ldb-toolchain-latest
+#apache/doris:build-env-ldb-toolchain-latest
+bitnami/kafka:3.8.1-debian-12-r0
