@@ -90,4 +90,4 @@
 #swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/cephcsi:v3.2.0
 #swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/csi-node-driver-registrar:v2.1.0
 #swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/nfs-subdir-external-provisioner:v4.0.2
-freakchicken/kafka-ui-lite
+wdkang/kafka-console-ui
