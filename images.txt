@@ -1,3 +1,5 @@
+mintplexlabs/anythingllm
+
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -102,4 +104,4 @@
 #codercom/code-server
 #huangypeng/password-xl-web
 #huangypeng/password-xl-service
-redroid/redroid
+#redroid/redroid
