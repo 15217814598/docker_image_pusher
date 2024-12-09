@@ -98,4 +98,5 @@
 #quay.io/prometheus-operator/prometheus-config-reloader
 #quay.io/thanos/thanos:v0.37.0
 #quay.io/prometheus/prometheus:v2.55.1
-docker.io/library/golang:alpine
+#docker.io/library/golang:alpine
+codercom/code-server
