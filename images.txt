@@ -1,4 +1,5 @@
-dbeaver/cloudbeaver	
+snowdreamtech/frps
+#dbeaver/cloudbeaver	
 #dbeaver/cloudbeaver-ee
 #mintplexlabs/anythingllm
 
