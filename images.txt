@@ -1,4 +1,6 @@
-snowdreamtech/frps
+docker.io/library/alpine:3 
+docker.io/library/golang:1.23
+#snowdreamtech/frps
 #dbeaver/cloudbeaver	
 #dbeaver/cloudbeaver-ee
 #mintplexlabs/anythingllm
