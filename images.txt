@@ -1,5 +1,6 @@
-docker.io/library/alpine:3 
-docker.io/library/golang:1.23
+ghcr.io/fatedier/frpc:v0.61.0
+#docker.io/library/alpine:3 
+#docker.io/library/golang:1.23
 #snowdreamtech/frps
 #dbeaver/cloudbeaver	
 #dbeaver/cloudbeaver-ee
