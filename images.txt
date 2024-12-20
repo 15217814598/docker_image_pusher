@@ -1,5 +1,5 @@
-eipwork/kuboard:v3
-#eipwork/kuboard
+#eipwork/kuboard:v3
+eipwork/kuboard
 #openjdk:8-jre-alpine
 #alpine:latest
 #openjdk:8-jdk-slim
