@@ -1,4 +1,5 @@
-nacos/nacos-server
+openjdk:8-jdk-slim
+#nacos/nacos-server
 #jenkinsci/blueocean
 #lhrbest/greenplum_gpcc:6.23.1
 #ghcr.io/fatedier/frpc:v0.61.0
