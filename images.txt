@@ -1,1 +1,1 @@
-greenplum/greenplum
+pivotaldata/greenplum-for-kubernetes
