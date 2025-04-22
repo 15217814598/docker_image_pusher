@@ -1,2 +1,1 @@
-
-ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:latest
+greenplum/greenplum
