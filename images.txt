@@ -1,1 +1,1 @@
-pivotaldata/greenplum-db
+lhrbest/greenplum:7.0.0
