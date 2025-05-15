@@ -1,1 +1,7 @@
-vaultwarden/server:latest
+registry.cn-hangzhou.aliyuncs.com/x_public/kube-apiserver:v1.31.8
+registry.cn-hangzhou.aliyuncs.com/x_public/kube-controller-manager:v1.31.8
+registry.cn-hangzhou.aliyuncs.com/x_public/kube-scheduler:v1.31.8
+registry.cn-hangzhou.aliyuncs.com/x_public/kube-proxy:v1.31.8
+registry.cn-hangzhou.aliyuncs.com/x_public/coredns:v1.11.3
+registry.cn-hangzhou.aliyuncs.com/x_public/pause:3.10
+registry.cn-hangzhou.aliyuncs.com/x_public/etcd:3.5.15-0
