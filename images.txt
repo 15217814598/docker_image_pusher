@@ -1,1 +1,1 @@
-atmoz/sftp
+wcjiang/reference:latest
