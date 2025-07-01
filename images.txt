@@ -1,1 +1,1 @@
-mcr.microsoft.com/mssql/server:2008-rtm
+jc21/nginx-proxy-manager:2.12.3
