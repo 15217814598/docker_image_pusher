@@ -1,1 +1,1 @@
-mongo:latest
+1panel/kubepi
