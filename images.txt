@@ -1,1 +1,1 @@
-1panel/kubepi
+qingpan/rnacos:stable
