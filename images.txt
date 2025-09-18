@@ -1,1 +1,1 @@
-qingpan/rnacos:stable
+nacos/nacos-server:latest
