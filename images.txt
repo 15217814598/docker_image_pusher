@@ -1,1 +1,1 @@
-qingpan/rnacos:stable
+mongo:4.4
