@@ -1,1 +1,1 @@
-tdengine/tsdb-ee:latest
+influxdb:2
