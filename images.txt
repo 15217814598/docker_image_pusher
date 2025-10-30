@@ -1,1 +1,1 @@
-harisekhon/hbase
+harisekhon/hbase:2.1
