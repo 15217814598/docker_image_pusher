@@ -1,1 +1,1 @@
-docker.io/hbase:2.4.11 
+harisekhon/hbase
