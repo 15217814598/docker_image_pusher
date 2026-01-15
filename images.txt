@@ -1,1 +1,1 @@
-influxdb:1.8
+apacherocketmq/rocketmq-dashboard:latest
