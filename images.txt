@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:latest
+--platform linux/arm64 nousresearch/hermes-agent:latest
